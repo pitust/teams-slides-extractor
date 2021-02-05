@@ -1,0 +1,25 @@
+{
+  "name": "teams-slides-extractor",
+  "version": "1.0.0",
+  "description": "Get the teams slides!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pitust/teams-slides-extractor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pitust/teams-slides-extractor/issues"
+  },
+  "homepage": "https://github.com/pitust/teams-slides-extractor#readme",
+  "dependencies": {
+    "@types/node": "^14.14.25",
+    "@types/node-fetch": "^2.5.8",
+    "node-fetch": "^2.6.1"
+  }
+}
